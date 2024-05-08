@@ -437,6 +437,54 @@
         }
       }
     },
+    "upbound@0.28.0": {
+      "last_modified": "2024-04-19T17:36:04-04:00",
+      "resolved": "github:NixOS/nixpkgs/92d295f588631b0db2da509f381b4fb1e74173c5#upbound",
+      "source": "devbox-search",
+      "version": "0.28.0",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/cpqj8slbi4k701r9yl6vvqag88dc2f5n-upbound-0.28.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/cpqj8slbi4k701r9yl6vvqag88dc2f5n-upbound-0.28.0"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/lddmgzgk929jf7jhggavwdh3hf7nxa8z-upbound-0.28.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/lddmgzgk929jf7jhggavwdh3hf7nxa8z-upbound-0.28.0"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/v1wr1wj9aa96mlhgxv0ryrpsccv60amq-upbound-0.28.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/v1wr1wj9aa96mlhgxv0ryrpsccv60amq-upbound-0.28.0"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/mg6xn51kxsq0rhn2b6vyq70zmlfpv900-upbound-0.28.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/mg6xn51kxsq0rhn2b6vyq70zmlfpv900-upbound-0.28.0"
+        }
+      }
+    },
     "yq-go@4.43.1": {
       "last_modified": "2024-03-25T08:46:37-04:00",
       "resolved": "github:NixOS/nixpkgs/c726225724e681b3626acc941c6f95d2b0602087#yq-go",
