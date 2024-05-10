@@ -65,6 +65,70 @@
         }
       }
     },
+    "azure-cli@2.60.0": {
+      "last_modified": "2024-05-06T15:07:38Z",
+      "resolved": "github:NixOS/nixpkgs/860e65d27036476edfb85dd847d982277880b143#azure-cli",
+      "source": "devbox-search",
+      "version": "2.60.0",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/d584y88hlwy97a7pwc70f84vap82h1d9-python3.11-azure-cli-2.60.0",
+              "default": true
+            },
+            {
+              "name": "dist",
+              "path": "/nix/store/xaac36wns5fmv9fc0yv6q2rklk3xfw0c-python3.11-azure-cli-2.60.0-dist"
+            }
+          ],
+          "store_path": "/nix/store/d584y88hlwy97a7pwc70f84vap82h1d9-python3.11-azure-cli-2.60.0"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/z4d55hljnsvq8laj1ry4y2199plh48sb-python3.11-azure-cli-2.60.0",
+              "default": true
+            },
+            {
+              "name": "dist",
+              "path": "/nix/store/r2g06dd4l37hqzbf3zwq2ppc5pvxxm9h-python3.11-azure-cli-2.60.0-dist"
+            }
+          ],
+          "store_path": "/nix/store/z4d55hljnsvq8laj1ry4y2199plh48sb-python3.11-azure-cli-2.60.0"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/x9ijmjq90f65dpivb256p4vp8czzdrja-python3.11-azure-cli-2.60.0",
+              "default": true
+            },
+            {
+              "name": "dist",
+              "path": "/nix/store/2zwp70kxz5xwqsjw40bhimy72jym5dmd-python3.11-azure-cli-2.60.0-dist"
+            }
+          ],
+          "store_path": "/nix/store/x9ijmjq90f65dpivb256p4vp8czzdrja-python3.11-azure-cli-2.60.0"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/zbqv4zrqbz2cf19ri4xr2l9a9j8ygdgy-python3.11-azure-cli-2.60.0",
+              "default": true
+            },
+            {
+              "name": "dist",
+              "path": "/nix/store/yhr23sj2nr9mymf6rkahyqgk49cq95sc-python3.11-azure-cli-2.60.0-dist"
+            }
+          ],
+          "store_path": "/nix/store/zbqv4zrqbz2cf19ri4xr2l9a9j8ygdgy-python3.11-azure-cli-2.60.0"
+        }
+      }
+    },
     "bat@0.24.0": {
       "last_modified": "2024-04-19T17:36:04-04:00",
       "resolved": "github:NixOS/nixpkgs/92d295f588631b0db2da509f381b4fb1e74173c5#bat",
